@@ -6,10 +6,10 @@ public class HelloWorld {
     }
 
     public void test(){
-        String test = "Тестирование веток";
+        String test1 = "Тестирование веток";
 
 
-       System.out.printf(test);
+       System.out.printf(test1);
 
 
     }
